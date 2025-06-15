@@ -1,2 +1,0 @@
-C:/Users/Thiru/Desktop/skmit/traffic/android/app/.cxx/RelWithDebInfo/c2x2j6v2/x86/CMakeFiles/edit_cache.dir
-C:/Users/Thiru/Desktop/skmit/traffic/android/app/.cxx/RelWithDebInfo/c2x2j6v2/x86/CMakeFiles/rebuild_cache.dir
